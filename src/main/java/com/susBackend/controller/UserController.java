@@ -15,7 +15,6 @@ public class UserController {
     @Autowired
     private UserService userService;
     
-    @CrossOrigin(origins = url)
     @GetMapping("/getAllUsers")
     public List<User> getAllUsers(){
         return userService.getAllUsers();
