@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com</groupId>
-	<artifactId>spotify</artifactId>
+	<artifactId>susBackend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spotify</name>
-	<description>Spotify</description>
+	<description>susBackend</description>
 	<properties>
 		<java.version>8</java.version>
 	</properties>
